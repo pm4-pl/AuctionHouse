@@ -3,9 +3,9 @@ declare(strict_types=1);
 
 namespace shock95x\auctionhouse\menu\type;
 
-use muqsit\invmenu\InvMenu;
-use muqsit\invmenu\InvMenuHandler;
-use muqsit\invmenu\transaction\DeterministicInvMenuTransaction;
+use shock95x\auctionhouse\libs\_f4b26a5b60e286fd\muqsit\invmenu\InvMenu;
+use shock95x\auctionhouse\libs\_f4b26a5b60e286fd\muqsit\invmenu\InvMenuHandler;
+use shock95x\auctionhouse\libs\_f4b26a5b60e286fd\muqsit\invmenu\transaction\DeterministicInvMenuTransaction;
 use pocketmine\player\Player;
 use pocketmine\world\sound\ClickSound;
 use shock95x\auctionhouse\AHListing;

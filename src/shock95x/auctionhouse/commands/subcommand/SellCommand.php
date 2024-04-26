@@ -20,7 +20,7 @@ use shock95x\auctionhouse\manager\CooldownManager;
 use shock95x\auctionhouse\utils\Locale;
 use shock95x\auctionhouse\utils\Settings;
 use shock95x\auctionhouse\utils\Utils;
-use SOFe\AwaitGenerator\Await;
+use shock95x\auctionhouse\libs\_f4b26a5b60e286fd\SOFe\AwaitGenerator\Await;
 
 class SellCommand extends BaseSubCommand {
 

@@ -7,7 +7,7 @@ use pocketmine\command\CommandSender;
 use shock95x\auctionhouse\AuctionHouse;
 use shock95x\auctionhouse\database\Query;
 use shock95x\auctionhouse\utils\Utils;
-use SOFe\AwaitGenerator\Await;
+use shock95x\auctionhouse\libs\_f4b26a5b60e286fd\SOFe\AwaitGenerator\Await;
 
 class AdminRelistAllSubCommand extends BaseSubCommand {
 

@@ -5,8 +5,8 @@ namespace shock95x\auctionhouse;
 
 use CortexPE\Commando\exception\HookAlreadyRegistered;
 use CortexPE\Commando\PacketHooker;
-use JackMD\UpdateNotifier\UpdateNotifier;
-use muqsit\invmenu\InvMenuHandler;
+use shock95x\auctionhouse\libs\_f4b26a5b60e286fd\JackMD\UpdateNotifier\UpdateNotifier;
+use shock95x\auctionhouse\libs\_f4b26a5b60e286fd\muqsit\invmenu\InvMenuHandler;
 use pocketmine\block\tile\TileFactory;
 use pocketmine\data\bedrock\EnchantmentIdMap;
 use pocketmine\item\enchantment\Enchantment;
